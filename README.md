@@ -1,2 +1,5 @@
 # Files-Remover
-This programme removes all the files in a folder
+
+#I created this programme because I usually found myself with a Download folder full of files.
+
+
